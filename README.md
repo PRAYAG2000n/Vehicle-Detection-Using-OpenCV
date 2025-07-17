@@ -59,10 +59,11 @@ pip install opencv-python imutils
      https://raw.githubusercontent.com/intel-iot-devkit/sample-videos/master/car-detection.mp4
    ```
 2. **Save the python file**
-   ```bash
-nano vehicle_detection.py
-    ```
 
+   ```bash
+   nano vehicle_detection.py
+   ```
+   
 3. **Run the detector**:
 
    ```bash
