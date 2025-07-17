@@ -58,14 +58,19 @@ pip install opencv-python imutils
    wget -O traffic.mp4 \
      https://raw.githubusercontent.com/intel-iot-devkit/sample-videos/master/car-detection.mp4
    ```
+2. **Save the python file**
+   ```bash
+nano vehicle_detection.py
+    ```
 
-2. **Run the detector**:
+3. **Run the detector**:
 
    ```bash
+   cd ~/vehicle-detector
    python3 vehicle_detection.py --video traffic.mp4
    ```
 
-3. **Controls**:
+4. **Controls**:
 
    - Press **q** to quit.
    - Adjust the detection sensitivity with `--min-area` (default: 500).
