@@ -78,7 +78,7 @@ pip install opencv-python imutils
 
 ---
 ## Output video
-[![Watch the video](https://img.youtu.be.com/vi/jbaWU47-TRk.jpg)](https://youtu.be/jbaWU47-TRk)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jbaWU47-TRk?si=YeJBfLNfaelfs_8B&amp;start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Script Options
 
