@@ -78,7 +78,7 @@ pip install opencv-python imutils
 
 ---
 ## Output video
-[![Watch the video](https://img.youtube.com/vi/jbaWU47-TRk.jpg)](https://youtu.be/jbaWU47-TRk)
+[![Watch the video](https://img.youtu.be.com/vi/jbaWU47-TRk.jpg)](https://youtu.be/jbaWU47-TRk)
 
 ## Script Options
 
