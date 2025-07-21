@@ -77,6 +77,8 @@ pip install opencv-python imutils
    - Adjust the detection sensitivity with `--min-area` (default: 500).
 
 ---
+## Output video
+https://www.youtube.com/watch?v=jbaWU47-TRk
 
 ## Script Options
 
